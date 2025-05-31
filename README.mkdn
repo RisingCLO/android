@@ -8,7 +8,7 @@ risingOS is a OpenSource Aftermarket Android Operating System that aims to bring
 
 Base Firmware
 ---------------
-[**LineageOS Android**](https://github.com/LineageOS)
+[**Paranoid Android**](https://github.com/AOSPA)
 
 Getting Started
 ---------------
@@ -152,7 +152,7 @@ Credits
 * [**Evolution-X**](https://github.com/Evolution-X)
 * [**Flamingo-OS**](https://github.com/Flamingo-OS)
 * [**LeafOS**](https://github.com/LeafOS-Project)
-* [**LineageOS**](https://github.com/LineageOS)
+* [**Paranoid Android**](https://github.com/AOSPA)
 * [**Octavi-OS**](https://github.com/Octavi-OS)
 * [**Omnirom**](https://github.com/omnirom)
 * [**PixelDust Caf**](https://github.com/pixeldust-project-caf)
